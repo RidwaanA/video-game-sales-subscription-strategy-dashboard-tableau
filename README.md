@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project explores global video game sales, user engagement, and critic performance data for Gamers' Arena, a video game information platform launching a subscription model for its users.
+
 Using Tableau, the dashboard delivers dynamic, multi-dimensional analysis of game popularity, genre and platform performance, and rating patterns — equipping leadership with the insights needed to curate an attractive and profitable subscription offering.
 
 ## Business Problem
@@ -22,10 +23,10 @@ The challenge:
 Data was clean and required no pre-processing prior to import into Tableau. All transformations, aggregations, and feature engineering were performed directly within Tableau using calculated fields and parameters.
 
 ## Dashboard Features
-- **Dynamic Top N filtering** — Parameters allow users to interactively control how many top games, platforms, or genres are displayed across visuals (by global sales, ratings, or user count)
-- **3-in-1 dimension switcher** — A single parameter toggles between Games, Platforms, and Genres views across relevant charts, eliminating dashboard clutter
-- **Unified ratings selector** — A calculated field consolidates User Score, Critic Score, and User Count into a single switchable metric for flexible performance comparison
-- **Multi-level filters** — Name, category action, genre, and platform filters enable granular drill-down across all dashboard views
+- **Dynamic Top N filtering:** Parameters allow users to interactively control how many top games, platforms, or genres are displayed across visuals (by global sales, ratings, or user count)
+- **3-in-1 dimension switcher:** A single parameter toggles between Games, Platforms, and Genres views across relevant charts, eliminating dashboard clutter
+- **Unified ratings selector:** A calculated field consolidates User Score, Critic Score, and User Count into a single switchable metric for flexible performance comparison
+- **Multi-level filters:** Name, category action, genre, and platform filters enable granular drill-down across all dashboard views
 
 ## Calculated Fields & Parameters
 
@@ -82,8 +83,6 @@ This dashboard enables:
 - ✅ Clear identification of high-engagement titles to drive subscriber retention
 - ✅ Genre and platform intelligence to guide licensing and partnership decisions
 - ✅ Executive-ready visibility into global sales trends and performance benchmarks
-
----
 
 ## Next Steps
 - Incorporate regional sales breakdowns to tailor subscription offerings by market
