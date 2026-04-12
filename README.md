@@ -3,7 +3,7 @@
 ## Project Overview
 This project explores global video game sales, user engagement, and critic performance data for Gamers' Arena, a video game information platform launching a subscription model for its users.
 
-Using Tableau, the dashboard delivers dynamic, multi-dimensional analysis of game popularity, genre and platform performance, and rating patterns — equipping leadership with the insights needed to curate an attractive and profitable subscription offering.
+Using Tableau, the dashboard delivers dynamic, multi-dimensional analysis of game popularity, genre and platform performance, and rating patterns; equipping leadership with the insights needed to curate an attractive and profitable subscription offering.
 
 ## Business Problem
 **Gamers' Arena** aims to drive user growth by designing a subscription model that gives gamers limited monthly access to a curated selection of games.
