@@ -56,7 +56,6 @@ END
 - **Heatmap:** Global Sales Distribution Across Platforms and Genres — reveals demand concentration at the intersection of platform and genre
 - **Bar Chart:** Top N Games by User Count & User Rating — highlights community engagement leaders
 - **Continuous Line Chart:** Global Sales Distribution Across Release Year — tracks sales trends over time
-<img width="1366" height="768" alt="Screenshot (580)" src="https://github.com/user-attachments/assets/88afaae9-c4f9-48fb-9bee-0db0e3b5c5ff" />
 
 
 🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/VideoGameSalesSubscriptionStrategyDashboard/SuscriptionModelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
