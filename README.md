@@ -51,12 +51,14 @@ END
 **Parameters used:** `Games / Platforms / Genres`, `Top N Games / Platforms / Genres by Global Sales`, `Ratings`, `Top N Games by Ratings`, `Top N Games by UserCount`
 
 ## Visualizations Included
-- **Treemap:** Top N Games / Platforms / Genres by Global Sales — sized and colored by sales volume
-- **Treemap:** Top N Games by Ratings & Global Sales — combined rating and sales performance view
-- **Heatmap:** Global Sales Distribution Across Platforms and Genres — reveals demand concentration at the intersection of platform and genre
-- **Bar Chart:** Top N Games by User Count & User Rating — highlights community engagement leaders
-- **Continuous Line Chart:** Global Sales Distribution Across Release Year — tracks sales trends over time
+- 📌 **Treemap:** Top N Games / Platforms / Genres by Global Sales — sized and colored by sales volume
+- 📌 **Treemap:** Top N Games by Ratings & Global Sales — combined rating and sales performance view
+- 📌 **Heatmap:** Global Sales Distribution Across Platforms and Genres — reveals demand concentration at the intersection of platform and genre
+- 📌 **Bar Chart:** Top N Games by User Count & User Rating — highlights community engagement leaders
+- 📌 **Continuous Line Chart:** Global Sales Distribution Across Release Year — tracks sales trends over time
 
+ [**Dashboard Overview**]
+ <img width="1112" height="767" alt="Screenshot 2026-04-18 150345" src="https://github.com/user-attachments/assets/2b01d4de-f211-41c9-a47b-7441b71faa85" />
 
 🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/VideoGameSalesSubscriptionStrategyDashboard/SuscriptionModelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
