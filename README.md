@@ -17,7 +17,7 @@ The challenge:
 - Company dataset covering multi-regional global sales and user engagement metrics
 
 ## Tools & Technologies
-- **Tableau Desktop / Tableau Public**
+- **Tableau**
 
 ## Data Preparation / Methodology
 Data was clean and required no pre-processing prior to import into Tableau. All transformations, aggregations, and feature engineering were performed directly within Tableau using calculated fields and parameters.
